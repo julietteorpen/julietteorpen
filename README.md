@@ -1,4 +1,17 @@
-### Hi there 👋
+# Juliette Orpen - @julietteorpen
+## FAC 23 Cohort and Software Developer *in training*
+
+*Explore my **GitHub Profile** to find out what I've been working on recently...*
+
+### Things to know:
+* Before moving into tech I was working in the non-profit sector, mostly in charities working with migrants and refugees. 
+* This is my first time using Markdown!
+* 
+
+
+
+
+
 
 <!--
 **julietteorpen/julietteorpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
