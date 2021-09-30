@@ -1,5 +1,5 @@
 # Juliette Orpen 💫 @julietteorpen
-## FAC 23 Cohort and Software Developer *in training*
+## FAC 23 Cohort and *aspiring* Software Developer 
 
 *Explore my **GitHub Profile** to find out what I've been working on recently...*
 
