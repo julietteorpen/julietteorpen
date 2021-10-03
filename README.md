@@ -1,13 +1,13 @@
 # Juliette Orpen 💫 @julietteorpen
-## FAC 23 Cohort and *aspiring* Software Developer 
+## *Aspiring Software Developer* 
+## FAC 23 Cohort 
 
 *Explore my **GitHub Profile** to find out what I've been working on recently...*
 
 ### Things to know:
 * Before moving into tech I was working in the non-profit sector, mostly in charities working with migrants and refugees. 
 
-#### The attitude I'm bringing to FAC 22:
-
+#### 
 
 
 
