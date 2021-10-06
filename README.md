@@ -1,12 +1,22 @@
-<img src=
-# Juliette Orpen 💫 @julietteorpen
-## *Aspiring Software Developer* 
+![Name Banner](https://github.com/julietteorpen/julietteorpen/blob/main/images/Readme%20tech%20cv%20co-ord.png)
+
+# Juliette Orpen 💫 
 ## FAC 23 Cohort 
+## *Aspiring Software Developer* 
 
-*Explore my **GitHub Profile** to find out what I've been working on recently...*
 
-### Things to know:
-* Before moving into tech I was working in the non-profit sector, mostly in charities working with migrants and refugees. 
+*Explore my [GitHub Profile](https://github.com/julietteorpen) to find out what I've been working on recently...*
+
+### From non-profit to software development:
+* 4+ years working a variety of roles in the non profit sector 
+* Interest in digital comms, creating engaging content for website and social media channels 
+* Desire to build skills and explore how tech can be used to support and improve services in charities 
+
+### Journey into coding and next steps:
+- [x] *November 2018* - Completed CodeFirst Girls Introduction to web development and began new role as Refugee Council's Executive Support Officer
+- [x] *September 2021* Joined Founders and Coders 23rd Cohort and began pre-apprenticeship training 
+- [ ] *December 2021* Secure a software development apprenticeship with a tech company 
+- [ ] *January 2022* Full time Founders and Coders Bootcamp begins 
 
 #### 
 
