@@ -11,6 +11,7 @@
 * 4+ years working a variety of roles in the non profit sector 
 * Interest in digital comms, creating engaging content for website and social media channels 
 * Desire to build skills and explore how tech can be used to support and improve services in charities 
+* Take a look at [my full CV here](https://github.com/julietteorpen/julietteorpen/blob/main/images/Tech%20CV.png)
 
 ### Journey into coding and next steps:
 - [x] *November 2018* - Completed CodeFirst Girls Introduction to web development and began new role as Refugee Council's Executive Support Officer
