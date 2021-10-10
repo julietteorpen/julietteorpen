@@ -12,7 +12,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/juliette-orpen/) to fi
 * 4+ years working a variety of roles in the non profit sector 
 * Interest in digital comms, creating engaging content for website and social media channels 
 * Desire to build skills and explore how tech can be used to support and improve services in charities 
-* Take a look at [my full CV here](https://github.com/julietteorpen/julietteorpen/blob/main/images/Tech%20CV.png)
+* Take a look at [my full CV here](https://www.canva.com/design/DAErxNSjR6k/ae1JDSjEqb64qqq8a9yi-A/view?utm_content=DAErxNSjR6k&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ### Journey into coding and next steps:
 - [x] *November 2018* - Interest in a career in tech is sparked by CodeFirst Girls Professionals (Introduction to web development) and also started a new role as Refugee Council's Executive Support Officer
