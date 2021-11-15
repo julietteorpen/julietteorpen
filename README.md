@@ -15,7 +15,7 @@
 ### Journey into coding and next steps:
 - [x] *November 2018* - Completed CodeFirst Girls Introduction to web development which sparked an interest in coding as I began new role as Refugee Council's Executive Support Officer
 - [x] *September 2021* Joined Founders and Coders 23rd Cohort and began pre-apprenticeship training 
-- [ ] *December 2021* Secure a software development apprenticeship with a tech company 
+- [ ] *December 2021* Secure a software development apprenticeship 
 - [ ] *January 2022* Begin full time software development training with Founders and Coders 
 
 
