@@ -17,5 +17,5 @@
 - [ ] *December 2021* Secure a software development apprenticeship 
 - [ ] *January 2022* Begin full time software development training with Founders and Coders 
 
-*Checkout [not a crumb](https://julietteorpen.github.io/not_a_crumb/) my imaginary bakery business and side project that I've been using to practice and build upon the skills I've been learning through self-study FAC.*
+*Check out [not a crumb](https://julietteorpen.github.io/not_a_crumb/) my imaginary bakery business and side project. I've been building this site as a way to practice and build upon the skills I've been learning through self-study and the FAC pre-apprenticeship.*
 
