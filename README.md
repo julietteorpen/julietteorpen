@@ -1,21 +1,19 @@
-![Name Banner](https://github.com/julietteorpen/julietteorpen/blob/main/images/Readme%20tech%20cv%20co-ord.png)
 
 # Juliette Orpen 💫 *(She/Her)*
-## FAC 23 Cohort 
-## *Aspiring Software Developer* 
+## *Full Stack Javascript Developer* 
+
+### App Developer and App Team Lead, Citizen Ticket 
+* For full details of my professional background, connect with me on [LinkedIn](https://www.linkedin.com/in/juliette-orpen/)
+Part of the 3 person app team responsible for all stages of the software development lifecycle of CT Organiser Toolbox cross-platform mobile application. Named as App Team Lead due to communication skills, ability to take initiative and co-ordinate team.
+* Increased app performance at times of peak usage by improving Node.js server retrieval of data from  MySQL database and in-house sales API, refactoring server side functions to minimise unnecessary data transfer and optimising UI rendering 
+* Implemented improvements in App team release processes to minimise chance of bugs being released in production, such as setting up of staging version of app, testing at real events ahead of full events
+* Redesigned and released new checkout screens to enhance user experience and implemented more robust server side handling of checkout process
+* Improved testing processes based on learning from retros by making regression testing process more thorough and testing sheet clearer
+* Resolved complex bugs through thorough debugging of both production and development versions of app, expanding use of Sentry error reporting 
+
 
 ### From non-profit to software development:
-* 4+ years working a variety of roles in the non-profit sector at the British Refugee Council and Praxis Community Projects
+* Transition to software Developer after 4+ years working a variety of roles in the non-profit sector at the British Refugee Council and Praxis Community Projects
 * During this time I gained an interest in web development through my involvement in digital comms and creating engaging content for website and social media channels 
 * I loved building Salesforce reports or my own well-ordered, attractively designed, automated Excel spreadsheet more than most people which led me to explore avenues into software development
 * My long-term desire is to build my software development skills and explore how tech can be used to have a positive social impact
-* For full details of my professional background, connect with me on [LinkedIn](https://www.linkedin.com/in/juliette-orpen/)
-
-### Journey into coding and next steps:
-- [x] *November 2018* - Completed CodeFirst Girls Introduction to web development which sparked an interest in coding as I began new role as Refugee Council's Executive Support Officer
-- [x] *September 2021* Joined Founders and Coders 23rd Cohort and began pre-apprenticeship training 
-- [ ] *December 2021* Secure a software development apprenticeship 
-- [ ] *January 2022* Begin full time software development training with Founders and Coders 
-
-*Check out [not a crumb](https://julietteorpen.github.io/not_a_crumb/) my imaginary bakery business and side project. I've been building this site as a way to practice and build upon the skills I've been learning through self-study and the FAC pre-apprenticeship.*
-
