@@ -3,8 +3,8 @@
 ## *Full Stack Javascript Developer* 
 
 ### App Developer and App Team Lead, Citizen Ticket 
-* For full details of my professional background, connect with me on [LinkedIn](https://www.linkedin.com/in/juliette-orpen/)
-Part of the 3 person app team responsible for all stages of the software development lifecycle of CT Organiser Toolbox cross-platform mobile application. Named as App Team Lead due to communication skills, ability to take initiative and co-ordinate team.
+For full details of my professional background, connect with me on [LinkedIn](https://www.linkedin.com/in/juliette-orpen/)
+* Part of the 3 person app team responsible for all stages of the software development lifecycle of CT Organiser Toolbox cross-platform mobile application. Named as App Team Lead due to communication skills, ability to take initiative and co-ordinate team.
 * Increased app performance at times of peak usage by improving Node.js server retrieval of data from  MySQL database and in-house sales API, refactoring server side functions to minimise unnecessary data transfer and optimising UI rendering 
 * Implemented improvements in App team release processes to minimise chance of bugs being released in production, such as setting up of staging version of app, testing at real events ahead of full events
 * Redesigned and released new checkout screens to enhance user experience and implemented more robust server side handling of checkout process
